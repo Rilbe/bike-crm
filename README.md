@@ -11,3 +11,4 @@ Notes:
 - Tailwind is configured via PostCSS.
 - This project uses localStorage for data (no backend).
 "# MyKasse" 
+"# MyKasse" 
